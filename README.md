@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**nicStudio/nicStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I explore **robotics, biology, and systems programming**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Areas of Interest
+
+- Robotics & Simulation (NVIDIA Isaac Sim, control systems)  
+- Embedded Programming & Microcontrollers  
+- Operating Systems & Low-Level Programming  
+- Compilers & Language Tools  
+- Computational Biology & Bio-inspired Systems  
+
+---
+
+### 💻 Current Projects
+
+- **[Isaac Sim Playground](https://github.com/nicStudio/isaac-sim-playground)** 
+- Embedded systems experiments & **OS concepts**
+- Bio-inspired computational projects  
+
+---
+
+### 🛠️ Skills & Tools
+
+- **C**, C++, Python
+- Microcontrollers & embedded programming  
+- Linux & **OS internals**  
+- ROS, robotics simulation  
+- Git & version control  
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: [to be added](https://www.linkedin.com/)  
+- Email: to be added  
+
+---
