@@ -34,7 +34,7 @@ I explore **robotics, biology, and systems programming**.
 
 ### 📫 Connect with Me
 
-- LinkedIn: [to be added](https://www.linkedin.com/)  
-- Email: to be added  
+- [LinkedIn](https://www.linkedin.com/in/nhbell/)
+- be l l va por s at icloud dot com
 
 ---
