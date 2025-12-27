@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-I explore **robotics, biology, and systems programming**.
+I am curious about **biology, and systems programming**.
 
 ---
 
 ### 🔧 Areas of Interest
 
-- Robotics & Simulation (NVIDIA Isaac Sim, control systems)  
+- Bioengineering
+- Computational Biology & Bio-inspired Systems  
 - Embedded Programming & Microcontrollers  
 - Operating Systems & Low-Level Programming  
-- Compilers & Language Tools  
-- Computational Biology & Bio-inspired Systems  
+- Compilers & Language Tools
+- Robotics & Simulation (NVIDIA Isaac Sim, control systems)
 
 ---
 
