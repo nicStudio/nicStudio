@@ -36,6 +36,6 @@ I am curious about **biology, and systems programming**.
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/nhbell/)
-- be l l va por s at icloud dot com
+-  at icloud dot com
 
 ---
